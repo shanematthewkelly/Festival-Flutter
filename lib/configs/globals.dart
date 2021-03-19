@@ -8,7 +8,7 @@ const secondaryShadow = Color.fromRGBO(87, 85, 230, .6);
 
 // Text Colors
 const primaryTextColor = Colors.black;
-const secondaryTextColor = Colors.grey;
+const secondaryTextColor = Color.fromRGBO(66, 66, 66, 1);
 
 // Gradients
 const primaryGradient = LinearGradient(
